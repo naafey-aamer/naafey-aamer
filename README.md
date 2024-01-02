@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naafey</h1>
-<h3 align="center">Currently in my last semester of undergrad in Comp Sci at LUMS, Lahore. I am mostly interested in Deep Learning techniques, Computer Vision, and smart optimization algorithms in general.</h3>
+<h3 align="center">Currently in the last semester of Computer Science undergrad at LUMS, Lahore. I am mostly interested in Deep Learning techniques, Computer Vision, and smart optimization algorithms in general.</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naafey-aamer&label=Profile%20views&color=0e75b6&style=flat" alt="naafey-aamer" /> </p>
